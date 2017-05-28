@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStrings", "ReverseStrings\ReverseStrings.csproj", "{3610CE71-4C45-40FF-83D0-171886867A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{73584D82-F42F-4D62-AEC0-68AA6140BD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{21BC1CD3-CCEB-42EA-80BE-B6CEB27A5DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "MatchingBrackets\MatchingBrackets.csproj", "{EDF2FCD0-CF87-483E-904E-291B0C866B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3610CE71-4C45-40FF-83D0-171886867A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3610CE71-4C45-40FF-83D0-171886867A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3610CE71-4C45-40FF-83D0-171886867A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3610CE71-4C45-40FF-83D0-171886867A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73584D82-F42F-4D62-AEC0-68AA6140BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73584D82-F42F-4D62-AEC0-68AA6140BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73584D82-F42F-4D62-AEC0-68AA6140BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73584D82-F42F-4D62-AEC0-68AA6140BD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BC1CD3-CCEB-42EA-80BE-B6CEB27A5DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BC1CD3-CCEB-42EA-80BE-B6CEB27A5DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BC1CD3-CCEB-42EA-80BE-B6CEB27A5DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BC1CD3-CCEB-42EA-80BE-B6CEB27A5DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF2FCD0-CF87-483E-904E-291B0C866B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF2FCD0-CF87-483E-904E-291B0C866B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF2FCD0-CF87-483E-904E-291B0C866B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF2FCD0-CF87-483E-904E-291B0C866B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
